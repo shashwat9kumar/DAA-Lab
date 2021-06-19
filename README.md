@@ -6,3 +6,12 @@
 <br>
 Image source: <a href="https://dribbble.com/shots/2775331-Dude-s-car-accident">Dude's car accident</a> 
 Curator: <a href="https://dribbble.com/olegkulinich">Oleg Kulinich</a> 
+
+<br>
+<br>
+
+Link to the dataset: <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Kaggle</a>
+
+<hr>
+Notebook
+The notebook is used to analyze the US accidents from 2016 to 2020 (3 million records) and to draw meaningful inferences
