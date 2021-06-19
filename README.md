@@ -13,5 +13,5 @@ Curator: <a href="https://dribbble.com/olegkulinich">Oleg Kulinich</a>
 Link to the dataset: <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Kaggle</a>
 
 <hr>
-Notebook
-The notebook is used to analyze the US accidents from 2016 to 2020 (3 million records) and to draw meaningful inferences
+
+The <a href="https://github.com/shashwat9kumar/US-Accidents-Data-Analysis/blob/master/Analysis_of_US_Accidents.ipynb">notebook</a> is used to analyze the US accidents from 2016 to 2020 (3 million records) and to draw meaningful inferences
